@@ -1,0 +1,13 @@
+{
+  "name": "username/api",
+  "version": "0.1.0",
+  "readme": "",
+  "repository": "",
+  "license": "",
+  "keywords": [],
+  "description": "",
+  "source": "src",
+  "deps": {
+    "moonbitlang/protobuf": "0.1.0"
+  }
+}
