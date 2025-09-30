@@ -23,5 +23,6 @@ protoc \
   #  data.proto
 
 cd api
+moon update
 moon build --target js
-moon build --target wasm
+# moon build --target wasm
